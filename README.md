@@ -87,6 +87,3 @@ CERT-UA: https://cert.gov.ua
 MITRE ATT&CK T1003.001: https://attack.mitre.org/techniques/T1003/001/
   custom Wazuh rule with a higher severity level specifically for
   Mimikatz
-
-Write it honestly. Recruiters and admissions officers both respond
-to genuine reflection more than polished statements.]
