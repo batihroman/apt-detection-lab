@@ -54,7 +54,7 @@ forwarded the event to the SIEM within seconds.
 ![Wazuh Agents](https://github.com/batihroman/apt-detection-lab/blob/45a085d621738e977de820467a47fc8d94df9b78/wazuh-agent-dashboard.png.png)
 
 Full incident documentation:
-[IR-001 — Credential Dumping Incident Report](https://github.com/batihroman/apt-detection-lab/blob/45a085d621738e977de820467a47fc8d94df9b78/incident-reports/IR-001-Credential-Dumping.md)
+[IR-001 — Credential Dumping Incident Report](https://github.com/batihroman/apt-detection-lab/blob/f8087ee6af412735c65a503b99dbbaa0fa317446/incident-reports/IR-001.md)
 
 ## Detection Details
 
