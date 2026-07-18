@@ -4,9 +4,9 @@ A SOC home lab that detects credential dumping — the same technique used by Ru
 
 ## Why I Built This
 
-I am Ukrainian and it's a pity to see my country having to go through war. This war brought a lot of pain and destruction to people, cities, infrastractures and networks. I simulated this exact attack because Russian hackers attacked Ukraine using those same techniques I used in this project. I wanted to learn how they did it, what they used, and how to scan and protect against those same attacks in the future. 
+I am Ukrainian and it's a pity to see my country having to go through war. This war brought a lot of pain and destruction to people, cities, infrastructures and networks. I simulated this exact attack because Russian hackers attacked Ukraine using those same techniques I used in this project. I wanted to learn how they did it, what they used, and how to scan and protect against those same attacks in the future. 
 
-This attack scenario was published on official Ukrainian national cybersecurity agency CERT-UA. Techniques, tools and strategy, all of it was published there, and I recreated this attack using Oracle VirtualBox Machine. I wanted to understand how this type of scenario works, what happens, and what is vulnaruble to the hackers.
+This attack scenario was published on official Ukrainian national cybersecurity agency CERT-UA. Techniques, tools and strategy, all of it was published there, and I recreated this attack using Oracle VirtualBox Machine. I wanted to understand how this type of scenario works, what happens, and what is vulnerable to the hackers.
 
 ## Lab Environment
 
